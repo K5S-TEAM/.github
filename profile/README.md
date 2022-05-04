@@ -14,11 +14,11 @@
 
 **지원 기능**
 
-- 인증 기능
-- 영화 정보 기능
+- [인증 기능](https://github.com/K5S-TEAM/k5smovie-auth)
+- [영화 정보 기능](https://github.com/K5S-TEAM/k5smovie-Info)
 - 채팅 기능
 - [리뷰 기능](https://github.com/K5S-TEAM/HotMovie)
-- 유저 편의 기능(마이페이지 등)
+- [유저 편의 기능(마이페이지 등)](https://github.com/K5S-TEAM/k5smovie-member-convenience)
 
 **프로젝트 문서**
 
