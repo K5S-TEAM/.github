@@ -16,7 +16,7 @@
 
 - [인증 기능](https://github.com/K5S-TEAM/k5smovie-auth)
 - [영화 정보 기능](https://github.com/K5S-TEAM/k5smovie-Info)
-- 채팅 기능
+- [채팅 기능](https://github.com/K5S-TEAM/k5smovie-Info)
 - [리뷰 기능](https://github.com/K5S-TEAM/HotMovie)
 - [유저 편의 기능(마이페이지 등)](https://github.com/K5S-TEAM/k5smovie-member-convenience)
 
@@ -27,19 +27,23 @@
 **프로젝트 전체 구상도**
 
 
+![Infra](https://user-images.githubusercontent.com/32133264/168464432-f4ceb620-f08d-4cf9-898d-846df97131af.png)
+
+![EKS](https://user-images.githubusercontent.com/32133264/168464431-7ae956bb-b603-405b-ab2b-2367476bc2a4.png)
+
+![CIcd](https://user-images.githubusercontent.com/32133264/168464430-e3222f76-ff57-4382-a08a-309ef63bc5a6.png)
 
 **사용 기술 스택**
 
-
+![Stack](https://user-images.githubusercontent.com/32133264/168464214-5d46324f-0279-4dbb-add2-ae16df7ff275.png)
 
 - 크롤링 : Python + BeautifulSoup
 - 프론트 엔드 : HTML + JS + CSS
 - 백엔드 : Springboot, STOMP, JPA, Gradle, postman
 - 데이터베이스 : Amazon RDS(Mysql), Amazon ElasticCache(Redis), Amazon S3
 - 인프라 : Terraform(IaC), Amazon Elastic Kubernetes Service(EKS), Amazon EC2, Amazon Route53, Cluster Autoscaler, AWS ALB Ingress Controller, Metrics server
-- CI/CD : Jenkins, ArgoCD, Github, Amazon Elastic Container Registry
+- CI/CD : Jenkins, ArgoCD, Github, Amazon Elastic Container Registry(ECR)
 - 모니터링 : Grafana, Prometheus, Lok, Promtai
-- MSA : Istio, Kiali, Jaeger
 
 **기대 효과 (AS-IS TO-BE)**
 
