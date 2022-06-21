@@ -74,7 +74,9 @@
 - `김찬영` &nbsp; 유스케이스 설계 • 리뷰 기능 구현
 - `송영민` &nbsp; 유스케이스 설계 • 영화 & 채팅 기능 구현 • 영화 정보 크롤링
 
-### 결과 페이지
+---
+
+### 결과 
 **영화 & 채팅**
 
 <img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC1.png"> <img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC2.png"> 
