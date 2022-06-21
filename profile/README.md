@@ -73,3 +73,23 @@
 - `김현구` &nbsp; 아키텍쳐 설계 • 유스케이스 설계 • 인증 기능 구현 • 유저 편의 기능 구현
 - `김찬영` &nbsp; 유스케이스 설계 • 리뷰 기능 구현
 - `송영민` &nbsp; 유스케이스 설계 • 영화 & 채팅 기능 구현 • 영화 정보 크롤링
+
+### 결과 페이지
+**영화 & 채팅**
+
+<img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC1.png"> <img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC2.png"> 
+<img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC3.png" width="60%"> <img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC4.png" width="35%">
+<img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC5.png" width="45%"> <img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC6.png" width="45%">
+
+**리뷰**
+
+<img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC7.png"> <img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC8.png">
+
+**인증**
+
+<img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC9.png"> <img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC10.png">
+<img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC11.png"> <img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC12.png">
+
+**회원 편의**
+
+<img src="https://github.com/K5S-TEAM/.github/blob/main/%EA%B7%B8%EB%A6%BC13.png">
